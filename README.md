@@ -1,2 +1,2 @@
 # GIT-DEMO
-Learning github from apna college.
+Learning Git Hub from apna college.
